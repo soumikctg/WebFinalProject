@@ -242,22 +242,249 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-md-6">
-                <div class="card border-0 shadow" style="max-width: 20rem;">
-                    <img src="..." class="card-img-top" alt="...">
+            <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+                <div class="card border-0 shadow" style="max-width: 21rem;">
+                    <img src="images/room1.jpg" class="card-img-top">
                     <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card's content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                        <h5 class="card-title">Simple Room</h5>
+                        <h6 class="mb-4">৳300 Per Night</h6>
+                        <div class="features mb-4">
+                            <h6 class="mb-1">Features</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                2 Rooms
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Bathroom
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Balcony
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                3 Sofa
+                            </span>
+                        </div>
+                        <div class="facilities mb-4">
+                            <h6 class="mb-1">Facilities</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Wifi
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                TV
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                AC
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Room Heater
+                            </span>
+                        </div>
+                        <div class="rating mb-4">
+                            <h6 class="mb-1">Rating</h6>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-half text-warning"></i>
+                            <i class="bi bi-star text-warning"></i>
+                        </div>
+                        <div class="d-flex justify-content-between mb-2">
+                            <a href="#" class="btn btn-dark">Book Now</a>
+                            <a href="#" class="btn btn-outline-dark">More Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+                <div class="card border-0 shadow" style="max-width: 21rem;">
+                    <img src="images/room2.png" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title">Simple Room</h5>
+                        <h6 class="mb-4">৳300 Per Night</h6>
+                        <div class="features mb-4">
+                            <h6 class="mb-1">Features</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                2 Rooms
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Bathroom
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Balcony
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                3 Sofa
+                            </span>
+                        </div>
+                        <div class="facilities mb-4">
+                            <h6 class="mb-1">Facilities</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Wifi
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                TV
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                AC
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Room Heater
+                            </span>
+                        </div>
+                        <div class="rating mb-4">
+                            <h6 class="mb-1">Rating</h6>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-half text-warning"></i>
+                            <i class="bi bi-star text-warning"></i>
+                        </div>
+                        <div class="d-flex justify-content-between mb-2">
+                            <a href="#" class="btn btn-dark">Book Now</a>
+                            <a href="#" class="btn btn-outline-dark">More Details</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12 mb-3">
+                <div class="card border-0 shadow" style="max-width: 21rem;">
+                    <img src="images/room3.png" class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title">Simple Room</h5>
+                        <h6 class="mb-4">৳300 Per Night</h6>
+                        <div class="features mb-4">
+                            <h6 class="mb-1">Features</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                2 Rooms
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Bathroom
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Balcony
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                3 Sofa
+                            </span>
+                        </div>
+                        <div class="facilities mb-4">
+                            <h6 class="mb-1">Facilities</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Wifi
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                TV
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                AC
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Room Heater
+                            </span>
+                        </div>
+                        <div class="rating mb-4">
+                            <h6 class="mb-1">Rating</h6>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-fill text-warning"></i>
+                            <i class="bi bi-star-half text-warning"></i>
+                            <i class="bi bi-star text-warning"></i>
+                        </div>
+                        <div class="d-flex justify-content-between mb-2">
+                            <a href="#" class="btn btn-dark">Book Now</a>
+                            <a href="#" class="btn btn-outline-dark">More Details</a>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-12 text-center mt-5">
-                <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold">More Rooms</a>
+                <a href="#" class="btn px-2 py-2 btn-outline-dark rounded fw-bold">More Rooms</a>
             </div>
         </div>
     </div>
+
+
+
+    <!-- Contact Us -->
+
+    <h2 class="mt-5 pt-4 text-center fw-bold h-font">Contact Us</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 p-3 mb-lg-0 mb-3 bg-white rounded">
+                <iframe class="w-100 rounded"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.978371078396!2d90.38689967413639!3d23.74815068886498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8bc7d14e415%3A0xbd4f5efcefb1df65!2zRnJlZSBTY2hvb2wgU3QsIOCmouCmvuCmleCmviAxMjA1!5e0!3m2!1sbn!2sbd!4v1692023456301!5m2!1sbn!2sbd"
+                    height="320" loading="lazy"></iframe>
+            </div>
+            <div class="col-lg-4 col-md-4">
+                <div class="bg-white p-4 rounded mb-4">
+                    <h5>Call Us</h5>
+                    <a class="d-inline-block mb-2 text-decoration-none text-dark" href="tel:+8801711213112"><i
+                            class="bi bi-telephone-fill"></i>+8801711213112</a>
+                    <br>
+                    <a class="d-inline-block mb-2 text-decoration-none text-dark" href="tel:+8801711213112"><i
+                            class="bi bi-telephone-fill"></i>+8801711213112</a>
+                </div>
+
+                <div class="bg-white p-4 rounded mb-4">
+                    <h5>Follow Us</h5>
+                    <a class="d-inline-block mb-3 text-decoration-none me-1" href="#">
+                        <span class="badge bg-light text-dark fs-6 p-2"><i class="bi bi-twitter me-1"></i>Twitter</span>
+                    </a>
+
+                    <a class="d-inline-block mb-3 text-decoration-none me-1" href="#">
+                        <span class="badge bg-light text-dark fs-6 p-2"><i
+                                class="bi bi-facebook me-1"></i>Facebook</span>
+                    </a>
+
+                    <a class="d-inline-block mb-3 text-decoration-none me-1" href="#">
+                        <span class="badge bg-light text-dark fs-6 p-2"><i
+                                class="bi bi-instagram me-1"></i>Instagram</span>
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <!--  Footer -->
+
+    <div class="container-fluid bg-white mt-5 px-5 py-2">
+        <div class="row">
+            <div class="col-lg-6 p-4">
+                <h3 class="h-font fw-bold fs-3 mb-2">Hotel Book</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis quis ipsam asperiores laudantium
+                    fugiat, beatae, earum repellat atque temporibus dolorem laboriosam, maxime obcaecati esse neque
+                    ratione quos eos necessitatibus eaque rem.</p>
+            </div>
+            <div class="col-lg-3 p-4">
+                <h5 class="mb3">Links</h3>
+                    <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">Home</a><br>
+                    <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">Rooms</a><br>
+                    <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">Contact Us</a><br>
+                    <a href="#" class="d-inline-block mb-2 text-dark text-decoration-none">About</a><br>
+            </div>
+            <div class="col-lg-3 p-4">
+                <h5 class="mb-3">Follow Us</h3>
+                <a class="d-inline-block mb-2 text-dark text-decoration-none me-1" href="#">
+                    <i class="bi bi-twitter me-1"></i>Twitter
+                </a>
+                <br>
+                <a class="d-inline-block mb-2 text-dark text-decoration-none me-1" href="#">
+                    <i class="bi bi-facebook me-1"></i>Facebook 
+                </a>
+                <br>
+                <a class="d-inline-block  text-dark text-decoration-none me-1" href="#">
+                    <i class="bi bi-instagram me-1"></i>Instagram
+                </a>
+            </div>
+        </div>
+    </div>
+
+
+
+
 
 
     <!-- Bootstrap -->
