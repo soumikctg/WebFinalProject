@@ -1,0 +1,24 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.h-font {
+    font-family: 'Merienda', cursive;
+}
+
+body{
+    background-color: rgba(227, 223, 230, 0.589);
+}
+
+.roomAvailable{
+    margin-top: -40px;
+    position: relative;
+    z-index: 2;
+}
+
+@media screen and (max-width:600px) {
+    .roomAvailable{
+        margin-top: 20px;
+        padding: 0 2rem;
+    }
+}
